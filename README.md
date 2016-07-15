@@ -15,12 +15,12 @@ Via pip:
 $ pip install emoji --upgrade
 From master branch:
 
-$ git clone https://github.com/carpedm20/emoji.git
+$ git clone https://github.com/prakharnigam/python_emojis.git
 $ cd emoji
 $ python setup.py install
 Developing
 
-$ git clone https://github.com/carpedm20/emoji.git
+$ git clone https://github.com/prakharnigam/python_emojis.git
 $ cd emoji
 $ pip install -e .\[dev\]
 $ nosetests
