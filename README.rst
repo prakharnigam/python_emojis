@@ -1,7 +1,7 @@
 Emoji
 =====
 
-Emoji for Python.  This project was inspired by `kyokomi <https://github.com/kyokomi/emoji>`__.
+Emoji for Python.  This project was inspired by `kyokomi <https://github.com/prakharnigam/python_emojis.git>`__.
 
 
 Example
@@ -34,7 +34,7 @@ From master branch:
 
 .. code-block:: console
 
-    $ git clone https://github.com/carpedm20/emoji.git
+    $ git clone https://github.com/prakharnigam/python_emojis.git
     $ cd emoji
     $ python setup.py install
 
@@ -44,7 +44,7 @@ Developing
 
 .. code-block:: console
 
-    $ git clone https://github.com/carpedm20/emoji.git
+    $ git clone https://github.com/prakharnigam/python_emojis.git
     $ cd emoji
     $ pip install -e .\[dev\]
     $ nosetests
@@ -63,10 +63,3 @@ Link
 
 `Official unicode list <http://www.unicode.org/Public/emoji/1.0/full-emoji-list.html>`__
 
-
-Authors
--------
-
-Taehoon Kim / `@carpedm20 <http://carpedm20.github.io/about/>`__
-
-Kevin Wurster / `@geowurster <http://twitter.com/geowurster/>`__
